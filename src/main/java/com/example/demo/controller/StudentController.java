@@ -31,4 +31,6 @@ public class StudentController {
         return ser.getStudentById();
     }
     
+    @DeleteMapping
+    public String deleteS
 }
