@@ -1,5 +1,12 @@
 package com.example.demo.entity;
 
+import jakarta.persistence.Entity;
+
+@Entity
 public class StudentEntity{
-    wvwhwwgwgslsgwoiosuhsvvovoggioojg0ijovjsdbv9u9ghuonnlnljbinvvjkkjijpvhugrjjpsoivvklskjihhhkviioonvvosiihnnpijiihnnjnvsigriihgeehhgubbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdbbbbbbbbbbbbbbbbbbbbbbbbb
+    private int id;
+    private String name;
+    private String email;
+    private String password;
+    private String role;
 }
