@@ -1,0 +1,5 @@
+package com.example.demo.entity;
+
+public class StudentEntity{
+    wvwhwwgwgslsgwoiosuhsvvovoggioojg0ijovjsdbv9u9ghuonnlnljbinvvjkkjijpvhugrjjpsoivvklskjihhhkviioonvvosiihnnpijiihnnjnvsigriihgeehhgubbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdbbbbbbbbbbbbbbbbbbbbbbbbb
+}
